@@ -2,7 +2,7 @@ import React from 'react';
 
 const Header = () => {
     return (
-        <header className="p-4 bg-gray-800 text-gray-100">
+        <header className="p-4  text-black">
             <div className="container flex justify-between h-16 mx-auto">
                 <ul className="items-stretch hidden space-x-3 lg:flex">
                     <li className="flex">
