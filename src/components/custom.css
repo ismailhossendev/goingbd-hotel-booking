@@ -1,0 +1,19 @@
+.hero {
+    position: relative; 
+    height: 90vh;
+    width: 100%;
+    display: flex;
+    align-items: center;
+}
+
+.hero::before {    
+      content: "";
+      background-image: url('https://i.ibb.co/fMw6M8Z/Rectangle-1.png');
+      background-size: cover;
+      position: absolute;
+      top: 0px;
+      right: 0px;
+      bottom: 0px;
+      left: 0px;
+      opacity: 0.30;
+}

@@ -1,0 +1,80 @@
+[
+  {
+    "id": "63536d6a96e06b1574c259ab",
+    "hotelName": "Sweet Home Resort",
+    "hotelPhone": 1794284544,
+    "HotelImg": "https://i.ibb.co/S62MJ2H/Rectangle-26.png",
+    "address": {
+      "street": "Panjupara , 8 No Word,House 07",
+      "postalCode": 8652,
+      "city": "Kuakata",
+      "countryCode": "BD",
+      "country": "Bangladesh"
+    }
+  },
+  {
+    "id": "63536d6a1103c6b5c2c7b6e3",
+    "hotelName": "Sweet Home Resort",
+    "hotelPhone": 1794284544,
+    "HotelImg": "https://i.ibb.co/S62MJ2H/Rectangle-26.png",
+    "address": {
+      "street": "Panjupara , 8 No Word,House 07",
+      "postalCode": 8652,
+      "city": "Kuakata",
+      "countryCode": "BD",
+      "country": "Bangladesh"
+    }
+  },
+  {
+    "id": "63536d6a3b436a6dead48aa7",
+    "hotelName": "Sweet Home Resort",
+    "hotelPhone": 1794284544,
+    "HotelImg": "https://i.ibb.co/S62MJ2H/Rectangle-26.png",
+    "address": {
+      "street": "Panjupara , 8 No Word,House 07",
+      "postalCode": 8652,
+      "city": "Kuakata",
+      "countryCode": "BD",
+      "country": "Bangladesh"
+    }
+  },
+  {
+    "id": "63536d6a880e1dd18657db70",
+    "hotelName": "Sweet Home Resort",
+    "hotelPhone": 1794284544,
+    "HotelImg": "https://i.ibb.co/S62MJ2H/Rectangle-26.png",
+    "address": {
+      "street": "Panjupara , 8 No Word,House 07",
+      "postalCode": 8652,
+      "city": "Kuakata",
+      "countryCode": "BD",
+      "country": "Bangladesh"
+    }
+  },
+  {
+    "id": "63536d6aa187607e04dfac92",
+    "hotelName": "Sweet Home Resort",
+    "hotelPhone": 1794284544,
+    "HotelImg": "https://i.ibb.co/S62MJ2H/Rectangle-26.png",
+    "address": {
+      "street": "Panjupara , 8 No Word,House 07",
+      "postalCode": 8652,
+      "city": "Kuakata",
+      "countryCode": "BD",
+      "country": "Bangladesh"
+    }
+  },
+  {
+    "id": "63536d6a24009ec02afc3a47",
+    "hotelName": "Sweet Home Resort",
+    "hotelPhone": 1794284544,
+    "HotelImg": "https://i.ibb.co/S62MJ2H/Rectangle-26.png",
+    "address": {
+      "street": "Panjupara , 8 No Word,House 07",
+      "postalCode": 8652,
+      "city": "Kuakata",
+      "countryCode": "BD",
+      "country": "Bangladesh"
+    }
+  }
+]
