@@ -5,7 +5,7 @@ import '../components/custom.css'
 
 const Main = () => {
     return (
-        <div>
+        <div className='relative '>
             <Header/>
             <Outlet/>
         </div>

@@ -1,0 +1,74 @@
+[
+  {
+    "id": "6354ed46bea9e7081a8e61a6",
+    "name": "Starter Family Tour",
+    "type": "Family Tour",
+    "img": "https://i.ibb.co/BqCD2FF/Sreemongol.png",
+    "code": "ft",
+    "price": 5000
+  },
+  {
+    "id": "6354ed46bea9e7081a8e61a6",
+    "name": "Basic Family Tour",
+    "type": "Family Tour",
+    "img": "https://i.ibb.co/BqCD2FF/Sreemongol.png",
+    "code": "ft",
+    "price": 2000
+  },
+  {
+    "id": "6354ed46bea9e7081a8e61a6",
+    "type": "Family Tour",
+    "name": "Advance Family Tour",
+    "img": "https://i.ibb.co/BqCD2FF/Sreemongol.png",
+    "code": "ft",
+    "price": 6000
+  },
+  {
+    "id": "6354ed465f4f4006db23ed2f",
+    "type": "Group Tour",
+    "name": "Basic Group Tour",
+    "img": "https://i.ibb.co/BqCD2FF/Sreemongol.png",
+    "code": "ft",
+    "price": 1200
+  },
+  {
+    "id": "6354ed465f4f4006db23ed2f",
+    "type": "Group Tour",
+    "name": "Advance Group Tour",
+    "img": "https://i.ibb.co/BqCD2FF/Sreemongol.png",
+    "code": "ft",
+    "price": 2400
+  },
+  {
+    "id": "6354ed4603ca504fbfd49c54",
+    "type": "Solo Tour",
+    "name": "One Person",
+    "img": "https://i.ibb.co/BqCD2FF/Sreemongol.png",
+    "code": "ft",
+    "price": 2200
+  },
+  {
+    "id": "6354ed4655d25a113bffc996",
+    "type": "Solo Tour",
+    "name": "Advance One Person",
+    "img": "https://i.ibb.co/BqCD2FF/Sreemongol.png",
+    "code": "ft",
+    "price": 5200
+  },
+  {
+    "id": "6354ed46b5bdb2d5a02f1836",
+    "type": "Family Tour",
+    "name": "VIP Family",
+    "img": "https://i.ibb.co/BqCD2FF/Sreemongol.png",
+    "code": "ft",
+    "price": 8000
+  },
+  {
+    "id": "6354ed46b5bdb2d5a02f1836",
+    "type": "Couple Tour",
+    "name": "Couple Tour",
+    "img": "https://i.ibb.co/BqCD2FF/Sreemongol.png",
+    "code": "ft",
+    "price": 3600
+  }
+]

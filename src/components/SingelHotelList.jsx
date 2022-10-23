@@ -5,7 +5,7 @@ const SingelHotelList = () => {
         <div className="mb-4">
             <div className="card card-side bg-base-100 shadow-xl m-2 border border-black rounded-xl">
                 <div className="w-[40%]">
-                    <img className='rounded-xl w-[100%]' src="https://i.ibb.co/S62MJ2H/Rectangle-26.png" alt="Movie"/>
+                    <img className='rounded-xl w-full h-full object-cover' src="https://i.ibb.co/S62MJ2H/Rectangle-26.png" alt="Movie"/>
                 </div>
                 <div className="card-body">
                     <h2 className="card-title">New movie is released!</h2>
